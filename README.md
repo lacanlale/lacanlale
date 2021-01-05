@@ -1,5 +1,4 @@
-### Hi there 👋
-
+# Jonathan Lacanlale
 <!--
 **lacanlale/lacanlale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- Currently: An undergrad at Cal State University, Northridge
+- Pronouns: he/him/his
+- Primary interests: Applied computer vision for creative projects
+- Primary programming language: Python
+- Languages I've worked with: Java, C, SQL, JS, Prolog, PHP
