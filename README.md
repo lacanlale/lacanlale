@@ -16,9 +16,8 @@ Here are some ideas to get you started:
 - **Currently:** An undergrad at Cal State University, Northridge. Until May 2021 (expected graduation date), I am a student researcher 
 affiliated with [NIH-BUILD](https://csun.edu/build-poder) site on campus. My current research focus is applied computer vision through object detection and object tracking.
 - **Pronouns:** he/him/his
-- **Portfolio Page:** [Portfolio](https://www.notion.so/jonathanlacanlale/Jonathan-Lacanlale-9ea768afce49467096b0821b13576e53)
-    - _Note:_ This page also contains my previous research experiences
+- **Portfolio Page:** [Portfolio](https://lacanlale.github.io/)
 - **Primary interests:** Applied computer vision for creative projects
 - **Primary programming language:** Python
-- **Languages I've worked with:** Java, C, SQL, JS, Prolog, PHP
+- **Languages I've worked with:** Java, C, SQL, JS, Prolog, PHP, Kotlin, HTML/CSS, Python
 - [**Curriculum Vitae**](https://drive.google.com/file/d/10iKSOzs7QTEC6SsLraPJXQ-OPaxBQIkh/view?usp=sharing)
