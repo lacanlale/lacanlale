@@ -18,6 +18,7 @@ affiliated with [NIH-BUILD](https://csun.edu/build-poder) site on campus. My cur
 - **Pronouns:** he/him/his
 - **Portfolio Page:** [Portfolio](https://lacanlale.github.io/)
 - **Primary interests:** Applied computer vision for creative projects
-- **Primary programming language:** Python
-- **Languages I've worked with:** Java, C, SQL, JS, Prolog, PHP, Kotlin, HTML/CSS, Python
+- **Fluent Languages:** Python
+- **Proficient Langues:** SQL, PHP, HTML/CSS
+- **Prior experience through education**: Java, C, Prolog, Kotlin
 - [**Curriculum Vitae**](https://drive.google.com/file/d/10iKSOzs7QTEC6SsLraPJXQ-OPaxBQIkh/view?usp=sharing)
