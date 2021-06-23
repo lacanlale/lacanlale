@@ -13,12 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- **Currently:** An undergrad at Cal State University, Northridge. Until May 2021 (expected graduation date), I am a student researcher 
-affiliated with [NIH-BUILD](https://csun.edu/build-poder) site on campus. My current research focus is applied computer vision through object detection and object tracking.
+- **Currently:** A new grad from Cal State University, Northridge. I graduated with a B.S. in Computer Science with a Minor in Mathematics. I am currently seeking opportunities as a Data Scientist and/or Data Engineer.
 - **Pronouns:** he/him/his
 - **Portfolio Page:** [Portfolio](https://lacanlale.github.io/)
-- **Primary interests:** Applied computer vision for creative projects
-- **Fluent Languages:** Python
-- **Proficient Langues:** SQL, PHP, HTML/CSS
-- **Prior experience through education**: Java, C, Prolog, Kotlin
-- [**Curriculum Vitae**](https://drive.google.com/file/d/10iKSOzs7QTEC6SsLraPJXQ-OPaxBQIkh/view?usp=sharing)
+- **Primary interests:** Data-driven technology for creative and entertainment purposes
