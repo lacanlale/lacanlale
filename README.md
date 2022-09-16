@@ -13,7 +13,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- **Currently:** A new grad from Cal State University, Northridge. I graduated with a B.S. in Computer Science with a Minor in Mathematics. I am currently seeking opportunities as a Data Scientist and/or Data Engineer.
+- **Currently:** Working as a Data Analyst
 - **Pronouns:** he/him/his
-- **Portfolio Page:** [Portfolio](https://lacanlale.github.io/)
-- **Primary interests:** Data-driven technology for creative and entertainment purposes
