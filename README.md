@@ -1,5 +1,5 @@
 # Jonathan Lacanlale
-- **Currently:** Working as a Data Analyst
+- **Currently:** Working as an Analytics Engineer
 - **Pronouns:** he/him/his
 
 My name is Jonathan and I was born, raised, and am based in Los Angeles, CA.
@@ -11,17 +11,18 @@ Please feel free to explore my portfolio at https://lacanlale.github.io/
 **Things I’m exploring right now:**
 
 - Data system design
-- Data visualization to debunk myths and explore trends that arise on social media
+- Creative data visualization
 - Exploratory analysis on niche communities
+- Applying forecasting and regression models on data from my hobbies
 
 **Things I want to learn more about:**
 
-- Data visualization software
-- The digital entertainment industry
-- Marketing data
-- Music research
+- Scaling automated data reporting systems
+- Data infrastructure
+- Using my professional skillset for a positive impact
 
 **Things I enjoy:**
 
 - Data analysis and visualization
 - Powerlifting
+- Travelling
