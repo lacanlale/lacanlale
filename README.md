@@ -10,19 +10,13 @@ Please feel free to explore my portfolio at https://lacanlale.github.io/
 
 **Things I’m exploring right now:**
 
-- Data system design
+- Data-driven storytelling and design
 - Creative data visualization
-- Exploratory analysis on niche communities
+- Exploratory analysis on historical data
 - Applying forecasting and regression models on data from my hobbies
-
-**Things I want to learn more about:**
-
-- Scaling automated data reporting systems
-- Data infrastructure
-- Using my professional skillset for a positive impact
 
 **Things I enjoy:**
 
 - Data analysis and visualization
-- Powerlifting
+- Staying active
 - Travelling
